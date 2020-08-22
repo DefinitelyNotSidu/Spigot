@@ -1,5 +1,11 @@
 name: SpigotBlankPlugin
 main: tutorialPlugin.SpigotBlankPlugin
 version: 1.0
-api-version: 1.15.2
+api-version: 1.15
 commands:
+  szery:
+    description: Kim, no kim, no kim jest szery?
+    usage: /szery
+    permission: SpigotBlankPlugin.szery
+    permission-message: Nie masz uprawnien do poznania prawdy o szerym.
+    
