@@ -1,0 +1,5 @@
+name: SpigotBlankPlugin
+main: tutorialPlugin.SpigotBlankPlugin
+version: 1.0
+api-version: 1.15.2
+commands:
